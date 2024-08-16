@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCMtest", "MCMtest\MCMtest.csproj", "{274906A7-8767-4DDA-8790-EF8756925CE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{274906A7-8767-4DDA-8790-EF8756925CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274906A7-8767-4DDA-8790-EF8756925CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274906A7-8767-4DDA-8790-EF8756925CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274906A7-8767-4DDA-8790-EF8756925CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39B22B27-6A88-4803-BDD9-F8E51AFF857F}
+	EndGlobalSection
+EndGlobal

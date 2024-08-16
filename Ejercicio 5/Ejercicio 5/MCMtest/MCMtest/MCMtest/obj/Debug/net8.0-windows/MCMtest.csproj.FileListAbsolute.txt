@@ -1,0 +1,48 @@
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\bin\Debug\net8.0-windows\MCMtest.exe
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\bin\Debug\net8.0-windows\MCMtest.deps.json
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\bin\Debug\net8.0-windows\MCMtest.runtimeconfig.json
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\bin\Debug\net8.0-windows\MCMtest.dll
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\bin\Debug\net8.0-windows\MCMtest.pdb
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.Form1.resources
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.csproj.GenerateResource.cache
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.AssemblyInfoInputs.cache
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.AssemblyInfo.cs
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.dll
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\obj\Debug\net8.0-windows\refint\MCMtest.dll
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.pdb
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.genruntimeconfig.cache
+C:\Users\jeffe\source\repos\MCMtest\MCMtest\obj\Debug\net8.0-windows\ref\MCMtest.dll
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\bin\Debug\net8.0-windows\MCMtest.exe
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\bin\Debug\net8.0-windows\MCMtest.deps.json
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\bin\Debug\net8.0-windows\MCMtest.runtimeconfig.json
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\bin\Debug\net8.0-windows\MCMtest.dll
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\bin\Debug\net8.0-windows\MCMtest.pdb
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.Form1.resources
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.csproj.GenerateResource.cache
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.AssemblyInfoInputs.cache
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.AssemblyInfo.cs
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.csproj.CoreCompileInputs.cache
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.dll
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\refint\MCMtest.dll
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.pdb
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.genruntimeconfig.cache
+C:\Users\marisol\OneDrive - Universidad de Oriente\Escritorio\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\ref\MCMtest.dll
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\bin\Debug\net8.0-windows\MCMtest.exe
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\bin\Debug\net8.0-windows\MCMtest.deps.json
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\bin\Debug\net8.0-windows\MCMtest.runtimeconfig.json
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\bin\Debug\net8.0-windows\MCMtest.dll
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\bin\Debug\net8.0-windows\MCMtest.pdb
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.Form1.resources
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.csproj.GenerateResource.cache
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.AssemblyInfoInputs.cache
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.AssemblyInfo.cs
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.csproj.CoreCompileInputs.cache
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.dll
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\refint\MCMtest.dll
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.pdb
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\MCMtest.genruntimeconfig.cache
+C:\Users\chica\Desktop\EJERCICIOS MARISOL\Ejercicio 5\Ejercicio 5\MCMtest\MCMtest\MCMtest\obj\Debug\net8.0-windows\ref\MCMtest.dll
