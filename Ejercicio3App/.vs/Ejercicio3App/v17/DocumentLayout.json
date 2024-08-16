@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chica\\Desktop\\EJERCICIO3\\Ejercicio3App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96832A20-581A-4447-AC87-9A18D1131C82}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\chica\\desktop\\ejercicio3\\ejercicio3app\\ejercicio3\\areacalculator\\ui\\elipseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96832A20-581A-4447-AC87-9A18D1131C82}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\areacalculator\\ui\\elipseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96832A20-581A-4447-AC87-9A18D1131C82}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\chica\\desktop\\ejercicio3\\ejercicio3app\\ejercicio3\\areacalculator\\ui\\elipseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96832A20-581A-4447-AC87-9A18D1131C82}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\areacalculator\\ui\\elipseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96832A20-581A-4447-AC87-9A18D1131C82}|Ejercicio3\\Ejercicio3.csproj|C:\\Users\\chica\\Desktop\\EJERCICIO3\\Ejercicio3App\\ejercicio3\\areacalculator\\ui\\palelogramoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96832A20-581A-4447-AC87-9A18D1131C82}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\areacalculator\\ui\\palelogramoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96832A20-581A-4447-AC87-9A18D1131C82}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\chica\\desktop\\ejercicio3\\ejercicio3app\\ejercicio3\\areacalculator\\ui\\palelogramoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96832A20-581A-4447-AC87-9A18D1131C82}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\areacalculator\\ui\\palelogramoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElipseForm.cs",
+              "DocumentMoniker": "C:\\Users\\chica\\Desktop\\EJERCICIO3\\Ejercicio3App\\Ejercicio3\\AreaCalculator\\UI\\ElipseForm.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\AreaCalculator\\UI\\ElipseForm.cs",
+              "ToolTip": "C:\\Users\\chica\\Desktop\\EJERCICIO3\\Ejercicio3App\\Ejercicio3\\AreaCalculator\\UI\\ElipseForm.cs",
+              "RelativeToolTip": "Ejercicio3\\AreaCalculator\\UI\\ElipseForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:19:02.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElipseForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chica\\Desktop\\EJERCICIO3\\Ejercicio3App\\Ejercicio3\\AreaCalculator\\UI\\ElipseForm.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\AreaCalculator\\UI\\ElipseForm.cs",
+              "ToolTip": "C:\\Users\\chica\\Desktop\\EJERCICIO3\\Ejercicio3App\\Ejercicio3\\AreaCalculator\\UI\\ElipseForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio3\\AreaCalculator\\UI\\ElipseForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:18:59.457Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PalelogramoForm.cs",
+              "DocumentMoniker": "C:\\Users\\chica\\Desktop\\EJERCICIO3\\Ejercicio3App\\Ejercicio3\\AreaCalculator\\UI\\PalelogramoForm.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\AreaCalculator\\UI\\PalelogramoForm.cs",
+              "ToolTip": "C:\\Users\\chica\\Desktop\\EJERCICIO3\\Ejercicio3App\\Ejercicio3\\AreaCalculator\\UI\\PalelogramoForm.cs",
+              "RelativeToolTip": "Ejercicio3\\AreaCalculator\\UI\\PalelogramoForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:13:24.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PalelogramoForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chica\\Desktop\\EJERCICIO3\\Ejercicio3App\\Ejercicio3\\AreaCalculator\\UI\\PalelogramoForm.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\AreaCalculator\\UI\\PalelogramoForm.cs",
+              "ToolTip": "C:\\Users\\chica\\Desktop\\EJERCICIO3\\Ejercicio3App\\Ejercicio3\\AreaCalculator\\UI\\PalelogramoForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio3\\AreaCalculator\\UI\\PalelogramoForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:14:04.319Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
